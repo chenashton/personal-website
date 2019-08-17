@@ -143,12 +143,22 @@ var data = {
   witch:{
     name:"Witch",
     image:"http://clash-wiki.com/images/media/wallpapers/clash-of-clans-witch-wallpaper.jpg",
-    description:"Witch can call the skeletons attack with her..",
+    description:"Witch can call the skeletons attack with her.",
     damage:"70",
     hitpoint:"300",
     speed:"12",
     link:"https://clashofclans.fandom.com/wiki/Witch",
     color: "#4f07ba"
+},
+  :{
+    name:"Witch",
+    image:"https://wallpapercave.com/wp/wp2310024.jpg",
+    description:"He is a Tanks either",
+    damage:"20",
+    hitpoint:"6100",
+    speed:"20",
+    link:"https://clashofclans.fandom.com/wiki/Witch",
+    color: "#b0102b"
 },
 }
 
