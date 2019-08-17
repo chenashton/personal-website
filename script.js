@@ -157,7 +157,7 @@ var data = {
     damage:"20",
     hitpoint:"6100",
     speed:"20",
-    link:"https://clashofclans.fandom.com/wiki/Witch",
+    link:"https://clashofclans.fandom.com/wiki/Lava_Hound",
     color: "#b0102b"
 },
 }
