@@ -150,8 +150,8 @@ var data = {
     link:"https://clashofclans.fandom.com/wiki/Witch",
     color: "#4f07ba"
 },
-  :{
-    name:"Witch",
+  lavahound:{
+    name:"Lava Hound",
     image:"https://wallpapercave.com/wp/wp2310024.jpg",
     description:"He is a Tanks either",
     damage:"20",
