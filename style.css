@@ -1,0 +1,25 @@
+.myColor {
+  background-color: #BABFC9;
+}
+
+.middle{
+  text-align: center;
+}
+.right{
+  text-align: right;
+}
+.image{
+  width: 200px;
+  float:right;
+}
+
+p {
+  color: #B15E6C;
+}
+.padding{
+  margin-right: 1rem
+}
+.smallimage{
+  width:100%;
+  height: 100%;
+}
