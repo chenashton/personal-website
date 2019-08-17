@@ -1,7 +1,7 @@
 // data section
 var data = {
   barbarian:{
-    name:"Barbarian",
+    name:"Barbarianaaaaableh",
     image:"http://getwallpapers.com/wallpaper/full/7/4/3/151403.jpg",
     description:"He is the normal person, but he is a good person to attract building damage, and other people attack clan.",
     damage:"8",
