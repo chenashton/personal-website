@@ -108,7 +108,7 @@ var data = {
     hitpoint:"55",
     speed:"32",
     link:"https://clashofclans.fandom.com/wiki/Minion",
-    color: "#046494"
+    color: "#046484"
   },
   hogrider:{
     name:"Hog Rider",
@@ -151,7 +151,7 @@ var data = {
     color: "#4f07ba"
 },
 }
-  
+
 // chart section
 var labels = []
 var damageData = []
